@@ -1,0 +1,13 @@
+{
+  "name": "postcss-url-bug-demo",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "postcss": "5.2.4",
+    "postcss-url": "5.1.2",
+    "postcss-assets": "4.1.0"
+  }
+}
